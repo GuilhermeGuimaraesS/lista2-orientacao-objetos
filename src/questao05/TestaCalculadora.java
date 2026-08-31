@@ -33,7 +33,7 @@ public class TestaCalculadora {
         int inteiro03 = entrada.nextInt();
         int resultado03 = Calculadora.somar(inteiro01, inteiro02, inteiro03);
         System.out.println("Resultado03: " + resultado03);
-        
+
 
     }
 }
