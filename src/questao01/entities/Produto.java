@@ -41,8 +41,6 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-    
-
     public void mostrarProduto(){
         DecimalFormat df = new DecimalFormat("0.00");
         System.out.println("==============================================================");
